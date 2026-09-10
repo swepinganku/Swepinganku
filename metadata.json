@@ -1,0 +1,6 @@
+{
+  "name": "Sweepinganku — Surgical Sweeping Manager",
+  "description": "Aplikasi manajemen sweeping pasien bedah harian, generator laporan WhatsApp per-DPJP dan divisi, serta generator repositori Next.js App Router.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
